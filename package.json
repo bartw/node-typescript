@@ -4,7 +4,7 @@
   "description": "Minimal project using typescript on node",
   "main": "index.ts",
   "scripts": {
-    "start": "babel-node src/index.ts",
+    "start": "babel-node src/index.ts --extensions \".ts\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
