@@ -5,6 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "lint": "eslint '*/**/*.ts'",
+    "prettier:write": "prettier --write src/**/*.*",
     "start": "babel-node src/index.ts --extensions \".ts\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc --noEmit"
