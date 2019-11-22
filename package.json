@@ -4,6 +4,7 @@
   "description": "Minimal project using typescript on node",
   "main": "index.ts",
   "scripts": {
+    "build": "npm run tsc && npm run lint && babel src -d dist --extensions \".ts\"",
     "lint": "eslint '*/**/*.ts'",
     "prettier:write": "prettier --write src/**/*.*",
     "start": "babel-node src/index.ts --extensions \".ts\"",
