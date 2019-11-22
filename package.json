@@ -1,0 +1,27 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "Minimal project using typescript on node",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartw/node-typescript.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "babel",
+    "prettier",
+    "eslint",
+    "express"
+  ],
+  "author": "Bart Wijnants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartw/node-typescript/issues"
+  },
+  "homepage": "https://github.com/bartw/node-typescript#readme"
+}
