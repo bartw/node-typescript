@@ -4,6 +4,7 @@
   "description": "Minimal project using typescript on node",
   "main": "index.ts",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/bartw/node-typescript/issues"
   },
-  "homepage": "https://github.com/bartw/node-typescript#readme"
+  "homepage": "https://github.com/bartw/node-typescript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
