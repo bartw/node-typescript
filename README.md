@@ -4,7 +4,7 @@ Minimal project using typescript on node
 
 ## Blog post
 
-Coming soon...
+https://medium.com/@bartwijnants/getting-started-with-typescript-for-node-50679fa596e
 
 ## license
 
