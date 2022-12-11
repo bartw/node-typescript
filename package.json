@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/bartw/node-typescript#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
